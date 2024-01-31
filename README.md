@@ -1,5 +1,5 @@
 # Bus_Details
-## Stage-1 APIS using DRF           
+## Stage-1 APIS using DRF         
 ## App Views---->(Function names)
 ### apis--> v1/views
 ###### 1.all_buses
